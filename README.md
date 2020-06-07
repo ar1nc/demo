@@ -1,2 +1,2 @@
 # demo
-getting started
+getting started with all things git
